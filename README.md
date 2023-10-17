@@ -1,6 +1,7 @@
-#[LinearRegression Model with FeatureEngineering PCA and MongoDB](https://github.com/rafipatel/LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB)
-Queried the data using MongoDB, trained and validated the model using LinearRegression. Performed EDA. Also, used Feature Engineering process to increase Performance and applied PCA to get better intuition of Dimensionalty Reduction Algorithms.
+# [LinearRegression Model with FeatureEngineering PCA and MongoDB](https://github.com/rafipatel/LinearRegression-Model-with-EDA-FeatureEngineering-PCA-and-MongoDB)
 
+
+Queried the data using MongoDB, trained and validated the model using LinearRegression. Performed EDA. Also, used Feature Engineering process to increase Performance and applied PCA to get better intuition of Dimensionalty Reduction Algorithms.
 Challenge OBJECTIVES:-
 - Load the data file provided in a local instance of MongoDB
 - Extract all data from the ‘sensor_data’ collection to form the data for ML task.
